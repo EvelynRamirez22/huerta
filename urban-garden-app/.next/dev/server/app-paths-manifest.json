@@ -1,3 +1,4 @@
 {
+  "/gestion-tareas/page": "app/gestion-tareas/page.js",
   "/page": "app/page.js"
 }

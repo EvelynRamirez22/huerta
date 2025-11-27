@@ -269,131 +269,6 @@ function GardenHeader() {
     }, this);
 }
 }),
-"[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
-"use strict";
-
-__turbopack_context__.s([
-    "GardenStats",
-    ()=>GardenStats
-]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$sun$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudSun$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/cloud-sun.js [app-rsc] (ecmascript) <export default as CloudSun>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/droplets.js [app-rsc] (ecmascript) <export default as Droplets>");
-;
-;
-function GardenStats() {
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "bg-white p-4 rounded-xl shadow-sm border border-stone-200 flex items-center justify-between",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex items-center gap-3",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "p-2 bg-amber-100 rounded-lg text-amber-600",
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$sun$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudSun$3e$__["CloudSun"], {
-                            className: "h-6 w-6"
-                        }, void 0, false, {
-                            fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                            lineNumber: 8,
-                            columnNumber: 11
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                        lineNumber: 7,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-xs text-stone-500 font-medium",
-                                children: "Clima"
-                            }, void 0, false, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                                lineNumber: 11,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "font-bold text-stone-800",
-                                children: "24°C Soleado"
-                            }, void 0, false, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                                lineNumber: 12,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                        lineNumber: 10,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                lineNumber: 6,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "h-8 w-px bg-stone-200 mx-2"
-            }, void 0, false, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                lineNumber: 16,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex items-center gap-3",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "p-2 bg-blue-100 rounded-lg text-blue-600",
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"], {
-                            className: "h-6 w-6"
-                        }, void 0, false, {
-                            fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                            lineNumber: 20,
-                            columnNumber: 11
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                        lineNumber: 19,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-xs text-stone-500 font-medium",
-                                children: "Humedad"
-                            }, void 0, false, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                                lineNumber: 23,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "font-bold text-stone-800",
-                                children: "45% Baja"
-                            }, void 0, false, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                                lineNumber: 24,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                        lineNumber: 22,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-                lineNumber: 18,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
-        lineNumber: 5,
-        columnNumber: 5
-    }, this);
-}
-}),
 "[project]/Documentos/huerta/urban-garden-app/components/task-list.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -548,168 +423,127 @@ function TaskList() {
     }, this);
 }
 }),
-"[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
 __turbopack_context__.s([
-    "GardenMap",
-    ()=>GardenMap
+    "GardenStats",
+    ()=>GardenStats
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$maximize$2d$2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Maximize2$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/maximize-2.js [app-rsc] (ecmascript) <export default as Maximize2>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/ui/button.tsx [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$sun$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudSun$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/cloud-sun.js [app-rsc] (ecmascript) <export default as CloudSun>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/droplets.js [app-rsc] (ecmascript) <export default as Droplets>");
 ;
 ;
-;
-function GardenMap() {
+function GardenStats() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "bg-white rounded-xl shadow-sm border border-stone-200 overflow-hidden",
+        className: "bg-white p-4 rounded-xl shadow-sm border border-stone-200 flex items-center justify-between",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "p-4 border-b border-stone-100 flex justify-between items-center",
+                className: "flex items-center gap-3",
                 children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                        className: "font-semibold text-lg text-stone-800",
-                        children: "Mapa de la Huerta"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                        lineNumber: 8,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                        variant: "ghost",
-                        size: "icon",
-                        className: "h-8 w-8",
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$maximize$2d$2$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Maximize2$3e$__["Maximize2"], {
-                            className: "h-4 w-4 text-stone-500"
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "p-2 bg-amber-100 rounded-lg text-amber-600",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$sun$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudSun$3e$__["CloudSun"], {
+                            className: "h-6 w-6"
                         }, void 0, false, {
-                            fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                            lineNumber: 10,
+                            fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                            lineNumber: 8,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                        lineNumber: 9,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                lineNumber: 7,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "aspect-video bg-stone-100 relative p-4",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                        lineNumber: 15,
+                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                        lineNumber: 7,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "grid grid-cols-3 gap-4 h-full",
                         children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "bg-green-100/80 border-2 border-green-300 rounded-lg p-2 flex flex-col justify-center items-center cursor-pointer hover:bg-green-200 transition-colors",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "font-bold text-green-800",
-                                        children: "Sector A"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                        lineNumber: 19,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "text-xs text-green-600",
-                                        children: "Tomates"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                        lineNumber: 20,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "mt-2 px-2 py-0.5 bg-red-100 text-red-700 text-[10px] rounded-full font-medium",
-                                        children: "Necesita Agua"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                        lineNumber: 21,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                lineNumber: 18,
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "text-xs text-stone-500 font-medium",
+                                children: "Clima"
+                            }, void 0, false, {
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                                lineNumber: 11,
                                 columnNumber: 11
                             }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "bg-amber-100/80 border-2 border-amber-300 rounded-lg p-2 flex flex-col justify-center items-center cursor-pointer hover:bg-amber-200 transition-colors",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "font-bold text-amber-800",
-                                        children: "Sector B"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                        lineNumber: 26,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "text-xs text-amber-600",
-                                        children: "Zanahorias"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                        lineNumber: 27,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                lineNumber: 25,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "bg-stone-200/80 border-2 border-stone-300 rounded-lg p-2 flex flex-col justify-center items-center cursor-pointer hover:bg-stone-300 transition-colors border-dashed",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "font-bold text-stone-500",
-                                        children: "Sector C"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                        lineNumber: 30,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "text-xs text-stone-500",
-                                        children: "Disponible"
-                                    }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                        lineNumber: 31,
-                                        columnNumber: 13
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                                lineNumber: 29,
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-bold text-stone-800",
+                                children: "24°C Soleado"
+                            }, void 0, false, {
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                                lineNumber: 12,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                        lineNumber: 17,
+                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                        lineNumber: 10,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-                lineNumber: 13,
+                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                lineNumber: 6,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "h-8 w-px bg-stone-200 mx-2"
+            }, void 0, false, {
+                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                lineNumber: 16,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "flex items-center gap-3",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "p-2 bg-blue-100 rounded-lg text-blue-600",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"], {
+                            className: "h-6 w-6"
+                        }, void 0, false, {
+                            fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                            lineNumber: 20,
+                            columnNumber: 11
+                        }, this)
+                    }, void 0, false, {
+                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                        lineNumber: 19,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "text-xs text-stone-500 font-medium",
+                                children: "Humedad"
+                            }, void 0, false, {
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                                lineNumber: 23,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "font-bold text-stone-800",
+                                children: "45% Baja"
+                            }, void 0, false, {
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                                lineNumber: 24,
+                                columnNumber: 11
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                        lineNumber: 22,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+                lineNumber: 18,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
-        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx",
-        lineNumber: 6,
+        fileName: "[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx",
+        lineNumber: 5,
         columnNumber: 5
     }, this);
 }
@@ -882,130 +716,7 @@ function CommunityFeed() {
     }, this);
 }
 }),
-"[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
-"use strict";
-
-__turbopack_context__.s([
-    "QuickActions",
-    ()=>QuickActions
-]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/plus.js [app-rsc] (ecmascript) <export default as Plus>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sprout$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Sprout$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/sprout.js [app-rsc] (ecmascript) <export default as Sprout>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/droplets.js [app-rsc] (ecmascript) <export default as Droplets>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/lucide-react/dist/esm/icons/map-pin.js [app-rsc] (ecmascript) <export default as MapPin>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/ui/button.tsx [app-rsc] (ecmascript)");
-;
-;
-;
-function QuickActions() {
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "grid grid-cols-2 md:grid-cols-4 gap-3",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                className: "h-auto py-4 flex flex-col gap-2 bg-green-600 hover:bg-green-700 text-white shadow-sm",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"], {
-                        className: "h-6 w-6"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                        lineNumber: 8,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        children: "Registrar Riego"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                        lineNumber: 9,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                lineNumber: 7,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                variant: "outline",
-                className: "h-auto py-4 flex flex-col gap-2 border-green-200 text-green-800 hover:bg-green-50 hover:text-green-900 bg-transparent",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sprout$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Sprout$3e$__["Sprout"], {
-                        className: "h-6 w-6"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                        lineNumber: 15,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        children: "Nueva Siembra"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                        lineNumber: 16,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                lineNumber: 11,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                variant: "outline",
-                className: "h-auto py-4 flex flex-col gap-2 border-stone-200 text-stone-700 hover:bg-stone-50 bg-transparent",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__["MapPin"], {
-                        className: "h-6 w-6"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                        lineNumber: 22,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        children: "Buscar Lugar"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                        lineNumber: 23,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                lineNumber: 18,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                variant: "outline",
-                className: "h-auto py-4 flex flex-col gap-2 border-stone-200 text-stone-700 hover:bg-stone-50 bg-transparent",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$plus$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Plus$3e$__["Plus"], {
-                        className: "h-6 w-6"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                        lineNumber: 29,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        children: "Otra Tarea"
-                    }, void 0, false, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                        lineNumber: 30,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-                lineNumber: 25,
-                columnNumber: 7
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx",
-        lineNumber: 6,
-        columnNumber: 5
-    }, this);
-}
-}),
-"[project]/Documentos/huerta/urban-garden-app/app/page.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
 __turbopack_context__.s([
@@ -1014,13 +725,9 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$header$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/garden-header.tsx [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$stats$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$task$2d$list$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/task-list.tsx [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$map$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/garden-map.tsx [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$stats$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/garden-stats.tsx [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$community$2d$feed$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/community-feed.tsx [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$quick$2d$actions$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/components/quick-actions.tsx [app-rsc] (ecmascript)");
-;
-;
 ;
 ;
 ;
@@ -1031,8 +738,8 @@ function Dashboard() {
         className: "min-h-screen bg-stone-50 text-stone-900 font-sans",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$header$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["GardenHeader"], {}, void 0, false, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                lineNumber: 11,
+                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                lineNumber: 9,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
@@ -1046,35 +753,35 @@ function Dashboard() {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                         className: "text-3xl font-bold text-green-800 mb-2",
-                                        children: "Hola, Sembrador 🌱"
+                                        children: "Hola, cuidador 🌱"
                                     }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                        lineNumber: 17,
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                        lineNumber: 14,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-stone-600",
-                                        children: 'Hoy es un buen día para cuidar de la huerta. Hay 3 tareas pendientes en el sector "Tomates".'
+                                        children: "Estas son tus tareas pendientes para hoy."
                                     }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                        lineNumber: 18,
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                        lineNumber: 17,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                lineNumber: 16,
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                lineNumber: 13,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$stats$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["GardenStats"], {}, void 0, false, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                 lineNumber: 22,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                        lineNumber: 15,
+                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                        lineNumber: 12,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1083,33 +790,121 @@ function Dashboard() {
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "space-y-6 lg:col-span-2",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$quick$2d$actions$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["QuickActions"], {}, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                        lineNumber: 29,
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "bg-white p-6 rounded-xl shadow-sm border border-stone-200",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                className: "font-semibold text-lg mb-4 text-green-800",
+                                                children: "Tareas Programadas"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                lineNumber: 29,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                                className: "space-y-3 text-stone-700",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                        className: "p-3 rounded-lg bg-stone-100",
+                                                        children: [
+                                                            "🌧️ ",
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                                                children: "Riego:"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                                lineNumber: 35,
+                                                                columnNumber: 23
+                                                            }, this),
+                                                            " Regar sector Tomates"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                        lineNumber: 34,
+                                                        columnNumber: 17
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                        className: "p-3 rounded-lg bg-stone-100",
+                                                        children: [
+                                                            "🌱 ",
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                                                children: "Siembra:"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                                lineNumber: 38,
+                                                                columnNumber: 22
+                                                            }, this),
+                                                            " Plantar albahaca en sector Hierbas"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                        lineNumber: 37,
+                                                        columnNumber: 17
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                        className: "p-3 rounded-lg bg-stone-100",
+                                                        children: [
+                                                            "✂️ ",
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                                                children: "Cuidado:"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                                lineNumber: 42,
+                                                                columnNumber: 22
+                                                            }, this),
+                                                            " Podar hojas secas de Lechuga"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                        lineNumber: 41,
+                                                        columnNumber: 17
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                        className: "p-3 rounded-lg bg-stone-100",
+                                                        children: [
+                                                            "🧺 ",
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                                                children: "Cosecha:"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                                lineNumber: 45,
+                                                                columnNumber: 22
+                                                            }, this),
+                                                            " Recolectar zanahorias maduras"
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                        lineNumber: 44,
+                                                        columnNumber: 17
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                lineNumber: 33,
+                                                columnNumber: 15
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                        lineNumber: 28,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$task$2d$list$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["TaskList"], {}, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                        lineNumber: 30,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$map$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["GardenMap"], {}, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                        lineNumber: 31,
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                        lineNumber: 51,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                lineNumber: 28,
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                lineNumber: 26,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "space-y-6",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$community$2d$feed$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CommunityFeed"], {}, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                        lineNumber: 36,
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                        lineNumber: 55,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1119,8 +914,8 @@ function Dashboard() {
                                                 className: "font-semibold text-lg mb-4 text-green-800",
                                                 children: "Tu Impacto"
                                             }, void 0, false, {
-                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                lineNumber: 40,
+                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                lineNumber: 58,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1131,32 +926,33 @@ function Dashboard() {
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 children: [
-                                                                    "Nivel: ",
+                                                                    "Nivel:",
+                                                                    " ",
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         className: "font-bold text-green-600",
                                                                         children: "Cuidador Experto"
                                                                     }, void 0, false, {
-                                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                                        lineNumber: 44,
-                                                                        columnNumber: 28
+                                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                                        lineNumber: 65,
+                                                                        columnNumber: 21
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
-                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                                lineNumber: 43,
+                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                                lineNumber: 63,
                                                                 columnNumber: 19
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 children: "850 pts"
                                                             }, void 0, false, {
-                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                                lineNumber: 46,
+                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                                lineNumber: 69,
                                                                 columnNumber: 19
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
-                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                        lineNumber: 42,
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                        lineNumber: 62,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1167,65 +963,65 @@ function Dashboard() {
                                                                 width: "70%"
                                                             }
                                                         }, void 0, false, {
-                                                            fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                            lineNumber: 49,
+                                                            fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                            lineNumber: 73,
                                                             columnNumber: 19
                                                         }, this)
                                                     }, void 0, false, {
-                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                        lineNumber: 48,
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                        lineNumber: 72,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-xs text-stone-500",
                                                         children: '¡Faltan 150 pts para desbloquear "Maestro Compostador"!'
                                                     }, void 0, false, {
-                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                        lineNumber: 51,
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                        lineNumber: 79,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
-                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                                lineNumber: 41,
+                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                                lineNumber: 61,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                        lineNumber: 39,
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                        lineNumber: 57,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                                lineNumber: 35,
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                                lineNumber: 54,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                        lineNumber: 26,
+                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                        lineNumber: 25,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-                lineNumber: 13,
+                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+                lineNumber: 11,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
-        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
-        lineNumber: 10,
+        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
+        lineNumber: 8,
         columnNumber: 5
     }, this);
 }
 }),
-"[project]/Documentos/huerta/urban-garden-app/app/page.tsx [app-rsc] (ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
+"[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx [app-rsc] (ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
 
-__turbopack_context__.n(__turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/app/page.tsx [app-rsc] (ecmascript)"));
+__turbopack_context__.n(__turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx [app-rsc] (ecmascript)"));
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__39e76a9f._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__00583dd8._.js.map

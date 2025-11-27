@@ -1,5 +1,5 @@
-import { CheckCircle2, Clock, AlertCircle } from "lucide-react"
-import { Button } from "@/components/ui/button"
+import { CheckCircle2, Clock, AlertCircle } from "lucide-react";
+import { Button } from "@/components/ui/button";
 
 export function TaskList() {
   const tasks = [
@@ -33,19 +33,27 @@ export function TaskList() {
       color: "text-green-500",
       bgColor: "bg-green-50",
     },
-  ]
+  ];
 
   return (
     <div className="bg-white rounded-xl shadow-sm border border-stone-200 overflow-hidden">
       <div className="p-4 border-b border-stone-100 flex justify-between items-center">
-        <h3 className="font-semibold text-lg text-stone-800">Tareas Pendientes</h3>
-        <Button variant="link" className="text-green-600 text-sm h-auto p-0">
+        <h3 className="font-semibold text-lg text-stone-800">
+          Tareas Pendientes
+        </h3>
+        {/* <Button variant="link" href="/gestion-tareas" className="text-green-600 text-sm h-auto p-0">
           Ver todas
-        </Button>
+        </Button> */}
+        <a className="text-green-600 text-sm h-auto p-0" href="/gestion-tareas">
+          ver todas
+        </a>
       </div>
       <div className="divide-y divide-stone-100">
         {tasks.map((task) => (
-          <div key={task.id} className="p-4 flex items-center gap-4 hover:bg-stone-50 transition-colors">
+          <div
+            key={task.id}
+            className="p-4 flex items-center gap-4 hover:bg-stone-50 transition-colors"
+          >
             <div className={`p-2 rounded-full ${task.bgColor} ${task.color}`}>
               <task.icon className="h-5 w-5" />
             </div>
@@ -68,5 +76,5 @@ export function TaskList() {
         ))}
       </div>
     </div>
-  )
+  );
 }

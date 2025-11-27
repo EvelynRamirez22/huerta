@@ -1005,7 +1005,7 @@ function QuickActions() {
     }, this);
 }
 }),
-"[project]/Documentos/huerta/urban-garden-app/app/page.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
+"[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
 __turbopack_context__.s([
@@ -1031,7 +1031,7 @@ function Dashboard() {
         className: "min-h-screen bg-stone-50 text-stone-900 font-sans",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$header$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["GardenHeader"], {}, void 0, false, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                 lineNumber: 11,
                 columnNumber: 7
             }, this),
@@ -1048,7 +1048,7 @@ function Dashboard() {
                                         className: "text-3xl font-bold text-green-800 mb-2",
                                         children: "Hola, Sembrador 🌱"
                                     }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                         lineNumber: 17,
                                         columnNumber: 13
                                     }, this),
@@ -1056,24 +1056,24 @@ function Dashboard() {
                                         className: "text-stone-600",
                                         children: 'Hoy es un buen día para cuidar de la huerta. Hay 3 tareas pendientes en el sector "Tomates".'
                                     }, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                         lineNumber: 18,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                 lineNumber: 16,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$stats$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["GardenStats"], {}, void 0, false, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                 lineNumber: 22,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                         lineNumber: 15,
                         columnNumber: 9
                     }, this),
@@ -1084,23 +1084,23 @@ function Dashboard() {
                                 className: "space-y-6 lg:col-span-2",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$quick$2d$actions$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["QuickActions"], {}, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                         lineNumber: 29,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$task$2d$list$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["TaskList"], {}, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                         lineNumber: 30,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$garden$2d$map$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["GardenMap"], {}, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                         lineNumber: 31,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                 lineNumber: 28,
                                 columnNumber: 11
                             }, this),
@@ -1108,7 +1108,7 @@ function Dashboard() {
                                 className: "space-y-6",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$components$2f$community$2d$feed$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["CommunityFeed"], {}, void 0, false, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                         lineNumber: 36,
                                         columnNumber: 13
                                     }, this),
@@ -1119,7 +1119,7 @@ function Dashboard() {
                                                 className: "font-semibold text-lg mb-4 text-green-800",
                                                 children: "Tu Impacto"
                                             }, void 0, false, {
-                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                 lineNumber: 40,
                                                 columnNumber: 15
                                             }, this),
@@ -1136,26 +1136,26 @@ function Dashboard() {
                                                                         className: "font-bold text-green-600",
                                                                         children: "Cuidador Experto"
                                                                     }, void 0, false, {
-                                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                                         lineNumber: 44,
                                                                         columnNumber: 28
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
-                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                                 lineNumber: 43,
                                                                 columnNumber: 19
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documentos$2f$huerta$2f$urban$2d$garden$2d$app$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 children: "850 pts"
                                                             }, void 0, false, {
-                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                                 lineNumber: 46,
                                                                 columnNumber: 19
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
-                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                         lineNumber: 42,
                                                         columnNumber: 17
                                                     }, this),
@@ -1167,12 +1167,12 @@ function Dashboard() {
                                                                 width: "70%"
                                                             }
                                                         }, void 0, false, {
-                                                            fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                            fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                             lineNumber: 49,
                                                             columnNumber: 19
                                                         }, this)
                                                     }, void 0, false, {
-                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                         lineNumber: 48,
                                                         columnNumber: 17
                                                     }, this),
@@ -1180,52 +1180,52 @@ function Dashboard() {
                                                         className: "text-xs text-stone-500",
                                                         children: '¡Faltan 150 pts para desbloquear "Maestro Compostador"!'
                                                     }, void 0, false, {
-                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                         lineNumber: 51,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
-                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                                 lineNumber: 41,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
-                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                         lineNumber: 39,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
-                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                                 lineNumber: 35,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
-                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                         lineNumber: 26,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
-                fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+                fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
                 lineNumber: 13,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
-        fileName: "[project]/Documentos/huerta/urban-garden-app/app/page.tsx",
+        fileName: "[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx",
         lineNumber: 10,
         columnNumber: 5
     }, this);
 }
 }),
-"[project]/Documentos/huerta/urban-garden-app/app/page.tsx [app-rsc] (ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
+"[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx [app-rsc] (ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
 
-__turbopack_context__.n(__turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/app/page.tsx [app-rsc] (ecmascript)"));
+__turbopack_context__.n(__turbopack_context__.i("[project]/Documentos/huerta/urban-garden-app/app/gestion-tareas/page.tsx [app-rsc] (ecmascript)"));
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__39e76a9f._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__87b82457._.js.map
