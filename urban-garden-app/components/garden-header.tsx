@@ -1,5 +1,6 @@
 import { Bell, Menu, User } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import Link from "next/link"
 
 export function GardenHeader() {
   return (
@@ -21,15 +22,24 @@ export function GardenHeader() {
           <a href="#" className="text-green-700">
             Mi Huerta
           </a>
-          <a href="#" className="hover:text-green-700 transition-colors">
+
+          <Link 
+            href="/mapa" 
+            className="hover:text-green-700 transition-colors"
+          >
             Mapa
-          </a>
+          </Link>
+
           <a href="#" className="hover:text-green-700 transition-colors">
             Comunidad
           </a>
-          <a href="#" className="hover:text-green-700 transition-colors">
+
+          <Link 
+            href="/guia-cultivo" 
+            className="hover:text-green-700 transition-colors"
+          >
             Guía de Cultivo
-          </a>
+          </Link>
         </nav>
 
         <div className="flex items-center gap-2">
