@@ -14,7 +14,9 @@ export function GardenHeader() {
             <div className="h-8 w-8 rounded-lg bg-green-600 flex items-center justify-center">
               <span className="text-white font-bold">H</span>
             </div>
-            <span className="text-xl font-bold text-green-900 hidden md:inline-block">Huerta App</span>
+            <span className="text-xl font-bold text-green-900 hidden md:inline-block">
+              Huerta App
+            </span>
           </div>
         </div>
 
@@ -30,9 +32,12 @@ export function GardenHeader() {
             Mapa
           </Link>
 
-          <a href="#" className="hover:text-green-700 transition-colors">
-            Comunidad
-          </a>
+          <Link 
+            href="/semillas" 
+            className="hover:text-green-700 transition-colors"
+          >
+            Semillas Disponibles
+          </Link>
 
           <Link 
             href="/guia-cultivo" 

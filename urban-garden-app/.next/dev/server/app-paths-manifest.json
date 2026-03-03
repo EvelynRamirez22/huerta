@@ -1,5 +1,7 @@
 {
+  "/gestion-tareas/page": "app/gestion-tareas/page.js",
   "/guia-cultivo/page": "app/guia-cultivo/page.js",
   "/mapa/page": "app/mapa/page.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/semillas/page": "app/semillas/page.js"
 }
